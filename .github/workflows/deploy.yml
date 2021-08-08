@@ -1,0 +1,2 @@
+- name: Fleek Deploy Action
+  uses: FleekHQ/action-deploy@v0.1.4-beta2
